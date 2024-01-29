@@ -2,7 +2,7 @@
 
 To install this project, run:
 
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/YaroslavG27/project-a.git
 
 ## Usage
 
