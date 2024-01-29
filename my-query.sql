@@ -1,2 +1,2 @@
 SELECT * FROM products
-WHERE price = 100
+WHERE price = 400
