@@ -1,1 +1,1 @@
-habia una vez
+SELECT * FROM products
